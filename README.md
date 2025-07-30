@@ -1,1 +1,39 @@
-  PGRpdiBhbGlnbj0iY2VudGVyIj4KICA8aDEgYWxpZ249ImNlbnRlciI+QWtoaWxlc2ggU3VkaGFrYXI8L2gxPgogIDxwIGFsaWduPSJjZW50ZXIiPjxlbT5Dby1mb3VuZGVyIEAgUm93Qm9hdCAoWUMgUzI0KTwvZW0+PC9wPgo8L2Rpdj4KCjxp bWcgc3JjPSJodHRwczovL21lZGlhLmxpY2RuLmNvbS9kbXMvaW1hZ2UvdjIvQzRFMDNBUUVDLUxpZ3VEekdzQS9wcm9maWxlLWRpc3BsYXlw aG90by1zaHJpbmtfODAwXzgwMC9wcm9maWxlLWRpc3BsYXlwaG90by1zaHJpbmtfODAwXzgwMC8wLzE1NjA3NTczMDE2NTJlPTE3NTY5NDQw MDB2PWJldGEmdD1UdVA0LVZ6WGlham8xZ0JqVjVBamxEa0ZiaEdGOEhVR21DUFJWdHVoeHciIGFsdD0iQWtoaWxlc2ggU3VkaGFrYXIiIHdp ZHRoPSIxNTAiIHN0eWxlPSJib3JkZXItcmFkaXVzOjUwJSIvPgoKIyBIaSwgSSdtIEFraGlsZXNoIPCfjI0KKmNvLWZvdW5kZXIgQCBSb3dC b2F0IChZQyBTMjQpLCBleC1Db2luYmFzZSwgZXgtQWdhcmEsIEJJVFMgUGlsYW5pIGFsdW0uKgoKPGFuYSBocmVmPSJodHRwczovL2xpbmtl ZGluLmNvbS9pbi9ha2hpbGVzaC1zdWRoYWthciIgdGFyZ2V0PSJfYmxhbmsiPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlv L2JhZGdlL0xpbmtlZEluLTAwNzdCNT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlIiBhbHQ9Ikxp bmtlZEluIi8+CjwvYT4KCiMjIPCfkb0gRXhwZXJpZW5jZQoKLSAqKkNvLUZvdW5kZXIsIFJvd2JvYXQgKFlDIFMyNCkqKiAgXwpKdWwgMjAy NCAtIFByZXNlbnQsIFNhbiBGcmFuY2lzY28sIENBCiAgQnVpbGRpbmcgYW4gQUktYXNzaXN0ZWQgSURFIGZvciBtdWx0aS1hZ2VudCBzeXN0 ZW1zCgotICoqUHJvZHVjdCBMZWFkLCBHZW5lcmF0aXZlIEEsIENvaW5iYXNlKiogIF9Ob3YgMjAyMSAtIEp1bCAyMDI0XwogIExlZCBwcm9k dWN0IGFuZCBzdHJhdGVneSBmb3IgZ2VuZXJhdGl2ZSBBSSBpbml0aWF0aXZlcyBhY3Jvc3MgY3VzdG9tZXIgc3VwcG9ydCBhbmQgY29tcGxp YW5jZQoKLSAqKlByb2R1Y3QgTWFuYWdlciwgQUksIEFnYXJhKiogIF9Ob3YgMjAxOSAtIE5vdiAyMDIxXwogIEJ1aWxkaW5nIGNvbnZlcnNh dGlvbmFsIFZvaWNlIEFJIGZvciBlbnRlcnByaXNlcywgbGV2ZXJhZ2luZyBzdGF0ZS1vZi1hcnQgZ2VuZXJhdGl2ZSBBSQoKLSAqKkxlYWQg QUkgRW5naW5lZXIsIEFnYXJhKiogIF9Ob3YgMjAxNyAtIE9jdCAyMDE5XwoKLSAqKk5MUCBSZXNlYXJjaGVyLCBNaWNyb3NvZnQgUmVzZWFy Y2gqKiAgX09jdCAyMDE3IC0gTWF5IDIwMThfCiAgV29ya2VkIG9uIEhpbmRpLUVuZ2xpc2ggdHJhbnNsaXRlcmF0aW9uIGFuZCBiYWNrLXRy YW5zbGl0ZXJhdGlvbgotICoqUmVzZWFyY2ggQXNzaXN0YW50LCBJSVQgKEJIVSkgVmFyYW5hc2kqKiAgX0phbiAyMDE3IC0gT2N0IDIwMTdf CiAgQnVpbHQgZGVlcCBsZWFybmluZyBtb2RlbHMgZm9yIE5MUCB0YXNrcwoKIyMg8J+QvyBFZHVjYXRpb24KCi0gKipCaXJsYSBJbnN0aXR1 dGUgb2YgVGVjaG5vbG9neSBhbmQgU2NpZW5jZSwgUGlsYW5pKioKICBCYWNoZWxvciBvZiBFbmdpbmVlcmluZyAtIEJFLCBDb21wdXRlciBT Y2llbmNlICgyMDEzIC0gMjAxNykKICBBY3Rpdml0aWVzOiBUYWJsZSBUZW5uaXMgdGVhbSBjYXB0YWluLCBEZWJhdGluZyBTb2NpZXR5LCBF bmdsaXNoIFByZXNzIENsdWIsIERlcGFydG1lbnQgb2YgVGhlYXRyZQoKIyMg8J+UvyBTa2lsbHMKCjxp bWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1B5dGhvbi0zNzc2QUI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXB5dGhv biZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iUHl0aG9uIi8+Cjxp bWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dlbmVyYXRpdmUlMjBBSS1GRjZGMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSIg YWx0PSJHZW5lcmF0aXZlIEFJIi8+Cjxp bWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL05MUC00QjhcQkJFP3N0eWxlPWZvci10aGUtYmFkZ2UiIGFsdD0iTkwgUCIv PgogPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHJvZHVjdCUyMFN0cmF0ZWd5LTAwQjhEOS9zdHlsZT1mb3ItdGhl LWJhZGdlIiBhbHQ9IlByb2R1Y3QgU3RyYXRlZ3kiLz4KCiMjIPCfjI0gQWNoaWV2ZW1lbnRzCgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hp ZWxkcy5pby9iYWRnZS/wn5K9LUNvLWZvdW5kZXIlMjBAXCBSb3dCb2F0JTIwKFlDJTIwUzI0KS1nb2xkP3N0eWxlPWZvci10aGUtYmFkZ2Ui IGFsdD0iQ28tZm91bmRlciBAIFJvd0JvYXQgKFlDIFMyNCkiLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uv8J+S vS1CSVRTJTIwUGlsYW5pJTIwQWx1bS1nb2xkP3N0eWxlPWZvci10aGUtYmFkZ2UiIGFsdD0iQklUUyBQaWxhbmkgQWx1bSIvPgoKIyMg8J+Q jyBHaXRIdWIgU3RhdHMKCiA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWI tcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPXR1c2hhcm1hZ2FyJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1yYWRpY2FsIi BhbHQ9IkdpdEh1YiBTdGF0cyIvPgo8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWI tcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncz91c2VybmFtZT10dXNoYXJtYWdhciZsYXlvdXQ9Y29tcGFjdCZ0aGVtZT1 yYWRpY2FsIiBhbHQ9IlRvcCBMYW5ndWFnZXMiLz4K
+<div align="center"> <h1 align="center">Akhilesh Sudhakar</h1> <p align="center"><em>Co-founder @ RowBoat (YC S24)</em></p> </div> <img src="https://media.licdn.com/dms/image/v2/C4E03AQEC-LiguDzGsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560757301652?e=1756944000&v=beta&t=TuP4-VzXihjo1gBjV5AjlDkFbhGF8HUGWmCPRVtuhxw" alt="Akhilesh Sudhakar" width="150" style="border-radius:50%"/>
+Hi, I'm Akhilesh 👋
+Co-founder @ RowBoat (YC S24), ex-Coinbase, ex-Agara, BITS Pilani alum.
+
+<a href="https://linkedin.com/in/akhilesh-sudhakar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+🚀 Experience
+Co-Founder, Rowboat (YC S24)
+Jul 2024 - Present, San Francisco, CA
+Building an AI-assisted IDE for multi-agent systems
+
+Product Lead, Generative AI, Coinbase
+Nov 2021 - Jul 2024
+Led product and strategy for generative AI initiatives across customer support and compliance
+
+Product Manager, AI, Agara
+Nov 2019 - Nov 2021
+Building conversational Voice AI for enterprises, leveraging state-of-art generative AI
+
+Lead AI Engineer, Agara
+Nov 2017 - Oct 2019
+
+NLP Researcher, Microsoft Research
+Oct 2017 - May 2018, Bangalore
+Worked on Hindi-English transliteration and back-transliteration
+
+Research Assistant, IIT (BHU) Varanasi
+Jan 2017 - Oct 2017, Varanasi Area, India
+Built deep learning models for NLP tasks
+
+🎓 Education
+Birla Institute of Technology and Science, Pilani
+Bachelor of Engineering - BE, Computer Science (2013 - 2017)
+Activities: Table Tennis team captain, Debating Society, English Press Club, Department of Theatre
+🛠️ Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge" alt="Generative AI"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" alt="NLP"/> <img src="https://img.shields.io/badge/Product%20Strategy-00B8D9?style=for-the-badge" alt="Product Strategy"/>
+🏆 Achievements
+<img src="https://img.shields.io/badge/🏆-Co-founder%20@%20RowBoat%20(YC%20S24)-gold?style=for-the-badge" alt="Co-founder @ RowBoat (YC S24)"/> <img src="https://img.shields.io/badge/🏆-BITS%20Pilani%20Alum-gold?style=for-the-badge" alt="BITS Pilani Alum"/>
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=tusharmagar&show_icons=true&theme=radical" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmagar&layout=compact&theme=radical" alt="Top Languages"/>
